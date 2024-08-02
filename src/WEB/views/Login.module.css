@@ -1,0 +1,58 @@
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+      'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+      sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+      monospace;
+  }
+  
+  .p-inputgroup.flex-1 {
+    width: 100%!important;
+    margin-bottom: 10px;
+  }
+  
+  button.p-button.p-component {
+    width: 100%!important;
+  }
+  
+  .center { 
+    display: flex; 
+    justify-content: center; 
+    color: rgb(37, 6, 148); 
+    align-items: center;
+    flex-direction: column;
+  } 
+  
+  .login-box{
+    height: 800px;
+  }
+  
+  .img-logo {
+    width: 200px;
+    height: 90px;
+    background-image: url('https://i.ibb.co/rdDrxkF/lo-001.png');
+    background-size: cover;
+    background-position: center;
+    margin-bottom: 50px;
+  }
+  
+  .p-inputgroup.flex-1 {
+    width: 20%;
+    margin-bottom: 10px;
+  }
+  
+  .p-button{
+    background-color: #079c6e;
+    width: 20%;
+    margin-top: 20px;
+  }
+  
+  input.p-password-input.p-inputtext.p-component {
+    width: 370px;
+  }
